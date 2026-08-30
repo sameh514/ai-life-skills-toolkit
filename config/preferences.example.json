@@ -1,0 +1,14 @@
+{
+  "platform": "windows or macos",
+  "preferred_browser": "system default",
+  "timezone": "Region/City",
+  "learning": {
+    "explanation_style": "concrete example before jargon",
+    "preferred_modes": ["paper", "audio", "screen", "IDE"],
+    "access_supports": ["one visible next action", "clear resume point"]
+  },
+  "privacy": {
+    "allow_local_profile_reads": false,
+    "allow_sensitive_vault_access": false
+  }
+}

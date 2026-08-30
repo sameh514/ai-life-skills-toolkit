@@ -1,0 +1,4 @@
+interface:
+  display_name: "Private Profile Safety"
+  short_description: "Use local personal information without exposing it"
+  default_prompt: "Use $use-private-profile-safely to store or retrieve only the personal field this task needs. Do not reveal extra fields, repeat private values, or ask for access that is not necessary."

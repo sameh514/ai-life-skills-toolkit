@@ -1,0 +1,4 @@
+interface:
+  display_name: "Correct Handwritten Notes"
+  short_description: "Correct and redraw messy handwritten study notes"
+  default_prompt: "Use $correct-handwritten-study-notes to clean up these notes, correct the content, and redraw the diagrams while preserving my originals. Ask only when an unreadable detail truly blocks the correction."

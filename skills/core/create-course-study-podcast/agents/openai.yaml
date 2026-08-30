@@ -1,0 +1,4 @@
+interface:
+  display_name: "Narrative Course Podcast"
+  short_description: "Create plainspoken narrative study podcasts"
+  default_prompt: "Use $create-course-study-podcast to turn my course material into a plainspoken audio story with short recall pauses. Check it against my sources, protect graded answers, and avoid unnecessary setup questions."

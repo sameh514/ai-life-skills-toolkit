@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer Service"
+  short_description: "Handle support chats with calm, disciplined pacing"
+  default_prompt: "Use $customer-service to resolve this support issue with short, calm messages. Reuse details I already gave, bundle questions, and show me anything consequential before it is sent or accepted."

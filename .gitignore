@@ -1,0 +1,34 @@
+# Personal information and secrets
+private/
+config/preferences.local.json
+*.vault.json
+*.vault
+*.enc
+.env
+.env.*
+!.env.example
+**/secrets.*
+**/profile.local.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Generated artifacts and local environments
+output/
+tmp/
+build/
+dist/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.test-skills/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

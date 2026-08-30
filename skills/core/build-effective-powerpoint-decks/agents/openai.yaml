@@ -1,0 +1,4 @@
+interface:
+  display_name: "Effective PowerPoint Decks"
+  short_description: "Build clear, audience-led presentation decks"
+  default_prompt: "Use $build-effective-powerpoint-decks to turn my material into a clear, well-paced PowerPoint. Use known context, make safe design choices, and ask only when a missing choice would change the result."

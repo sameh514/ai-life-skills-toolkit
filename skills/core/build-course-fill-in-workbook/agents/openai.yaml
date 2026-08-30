@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Fill-In Workbook"
+  short_description: "Turn course material into a safe practice workbook"
+  default_prompt: "Use $build-course-fill-in-workbook to make a printable practice workbook from my material. Keep answers after a clear STOP page, check the finished file, and use known context instead of asking unnecessary setup questions."

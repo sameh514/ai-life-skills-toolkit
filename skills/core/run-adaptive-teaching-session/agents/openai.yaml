@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adaptive Teaching Session"
+  short_description: "Teach one step at a time and check understanding"
+  default_prompt: "Use $run-adaptive-teaching-session to teach me this topic one step at a time. Start with a small check, wait for my answer during the lesson, and do not interrupt me with unnecessary setup questions."

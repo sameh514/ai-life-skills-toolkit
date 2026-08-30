@@ -1,0 +1,22 @@
+{
+  "safe_preference_examples": {
+    "platform": "windows or macos",
+    "preferred_browser": "your choice",
+    "timezone": "Region/City",
+    "teaching_style": "concrete examples before jargon",
+    "access_supports": "one visible next action; low visual clutter"
+  },
+  "encrypted_field_examples": {
+    "contact.preferred_email": "store only if genuinely needed",
+    "life_admin.license_renewal_month": "month or date",
+    "life_admin.frequent_flyer_program": "program name only, store only if genuinely needed"
+  },
+  "never_store_here": [
+    "passwords",
+    "passkeys",
+    "MFA or recovery codes",
+    "authentication cookies or tokens",
+    "full Social Security or national ID numbers",
+    "complete payment-card or bank-account numbers"
+  ]
+}

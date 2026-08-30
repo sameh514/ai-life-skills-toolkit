@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preferred Browser Handoff"
+  short_description: "Keep personal browser work in the user's chosen browser"
+  default_prompt: "Use $use-preferred-browser to complete this visible browser task without switching from my preferred browser. Reuse known choices and pause only when privacy, approval, money, or an irreversible action requires me."
